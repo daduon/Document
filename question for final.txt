@@ -1,0 +1,19 @@
+1, what is different name function with arrow function.
+
+2, what is destructuring? for example.
+
+for example: const riable = [
+			    {	"id" : 1,
+			  	"name" : "da"
+			    },
+				riable.foreach (item =>{
+				const {id, name} = item;
+				consle.log(id);
+				cosle.lon(item);
+			];
+3, what is class object? :  O,O,P there are Class, Inheritance, Polymorphism, Abstraction, Encapsulation.
+
+- Inheritane: 
+- Polymorphism: create function simalar riable for sum munber. but create alon riable not simalar riable.
+4,Promise to research
+5,async - await to research
